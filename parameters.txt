@@ -1,0 +1,8 @@
+top screen offset for ball = 290px
+bottom screen offset for ball = 290px
+right screen offset for ball = 322px
+left screen offset for ball = 330px
+original pixel size of turtle objects = 20px by 20px
+ball radius, ball diameter = 20px, 40px
+paddle length and width = 5*20 100px, 20px, which is len 50 px from center, and height 10px from center
+bricks length and width = 2*20 40px, 20px, which is len 20px from center, and height 10px from center
